@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af586265-7f29-4328-845e-ae65d1fb4633" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_layout_template_json_2_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/aspect/AopPointcuts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/aspect/LogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/aspect/TimerAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/web/AppController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/resources/static/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/resources/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_1_2_api_2_19_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_5_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringExercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/repository/FilePersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/repository/FilePersonRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/AbisTrainingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/AbisTrainingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/TrainingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/TrainingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/src/test/java/be/abis/exercise/service/TrainingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/test/java/be/abis/exercise/service/TrainingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/web/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/web/AppController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/resources/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +182,7 @@
       <workItem from="1666253910887" duration="26910000" />
       <workItem from="1666352461625" duration="3123000" />
       <workItem from="1666355650986" duration="6104000" />
-      <workItem from="1666595090490" duration="20957000" />
+      <workItem from="1666595090490" duration="22439000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1666338454802</created>
@@ -226,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666362083594</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1666623882139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666623882139</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
