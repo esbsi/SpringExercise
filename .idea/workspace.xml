@@ -5,19 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af586265-7f29-4328-845e-ae65d1fb4633" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/repository/FallBackPersonRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/SomeCourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/SomePersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/test/java/be/abis/exercise/service/TestCourseServiceSomeQualifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/test/java/be/abis/exercise/service/TestPersonServiceDevProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_layout_template_json_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/aspect/AopPointcuts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/aspect/TimerAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/web/AppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/resources/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_1_2_api_2_19_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_5_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/ExerciseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/ExerciseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringExercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/repository/FilePersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/repository/FilePersonRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/AbisCourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/AbisCourseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/AbisPersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/AbisPersonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/AbisTrainingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/AbisTrainingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/TrainingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/be/abis/exercise/service/TrainingService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/src/test/java/be/abis/exercise/service/CourseServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/test/java/be/abis/exercise/service/CourseServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/src/test/java/be/abis/exercise/service/TrainingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/test/java/be/abis/exercise/service/TrainingServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +40,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,33 +56,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;97e96b9b630acd157725fa00eff11a80&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.39655173",
+    "spring.configuration.checksum": "97e96b9b630acd157725fa00eff11a80"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;module&quot;,
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module",
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Duser\IdeaProjects\SpringExercise\exercise\src\test\java\be\abis\exercise\repository" />
@@ -79,46 +96,7 @@
       <recent name="C:\Users\Duser\IdeaProjects\SpringExercise\exercise\src\main\resources\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in exercise">
-    <configuration name="All in exercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CourseServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="be.abis.exercise.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="be.abis.exercise.service" />
-      <option name="MAIN_CLASS_NAME" value="be.abis.exercise.service.CourseServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CourseServiceTest.findCourseByIdShouldBeWorkshopSQL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="be.abis.exercise.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="be.abis.exercise.service" />
-      <option name="MAIN_CLASS_NAME" value="be.abis.exercise.service.CourseServiceTest" />
-      <option name="METHOD_NAME" value="findCourseByIdShouldBeWorkshopSQL" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.ExerciseApplication">
     <configuration name="CourseServiceTest.findUnder500" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise" />
       <extension name="coverage">
@@ -135,17 +113,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPersonRepository" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCourseServiceSomeQualifier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="be.abis.exercise.repository.*" />
+          <option name="PATTERN" value="be.abis.exercise.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="be.abis.exercise.repository" />
-      <option name="MAIN_CLASS_NAME" value="be.abis.exercise.repository.TestPersonRepository" />
+      <option name="PACKAGE_NAME" value="be.abis.exercise.service" />
+      <option name="MAIN_CLASS_NAME" value="be.abis.exercise.service.TestCourseServiceSomeQualifier" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainingServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.abis.exercise.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="be.abis.exercise.service" />
+      <option name="MAIN_CLASS_NAME" value="be.abis.exercise.service.TrainingServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainingServiceTest.shouldThrowEnrollException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.abis.exercise.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="be.abis.exercise.service" />
+      <option name="MAIN_CLASS_NAME" value="be.abis.exercise.service.TrainingServiceTest" />
+      <option name="METHOD_NAME" value="shouldThrowEnrollException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainingServiceTest.shouldThrowEnrollException2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.abis.exercise.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="be.abis.exercise.service" />
+      <option name="MAIN_CLASS_NAME" value="be.abis.exercise.service.TrainingServiceTest" />
+      <option name="METHOD_NAME" value="shouldThrowEnrollException2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in exercise" />
-        <item itemvalue="JUnit.CourseServiceTest" />
+        <item itemvalue="JUnit.TrainingServiceTest" />
         <item itemvalue="JUnit.CourseServiceTest.findUnder500" />
-        <item itemvalue="JUnit.CourseServiceTest.findCourseByIdShouldBeWorkshopSQL" />
-        <item itemvalue="JUnit.TestPersonRepository" />
+        <item itemvalue="JUnit.TrainingServiceTest.shouldThrowEnrollException" />
+        <item itemvalue="JUnit.TrainingServiceTest.shouldThrowEnrollException2" />
+        <item itemvalue="JUnit.TestCourseServiceSomeQualifier" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +202,8 @@
       <updated>1666253907447</updated>
       <workItem from="1666253910887" duration="26910000" />
       <workItem from="1666352461625" duration="3123000" />
-      <workItem from="1666355650986" duration="5945000" />
+      <workItem from="1666355650986" duration="6104000" />
+      <workItem from="1666595090490" duration="20957000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1666338454802</created>
@@ -193,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666339206369</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1666362083594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666362083594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
